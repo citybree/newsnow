@@ -5,7 +5,7 @@ import type { CacheInfo } from "#/types"
 
 const info = {
   LICENCE: "MIT",
-  Github: "https://github.com/ourongxing/newsnow",
+  Github: "https://github.com/citybree/newsnow",
   Sponsorship: "If you rely on this service, sponsorship is welcome to help it run for the long term. Scan the QR code https://raw.githubusercontent.com/ourongxing/newsnow/main/screenshots/reward.gif",
 }
 
